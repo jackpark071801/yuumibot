@@ -1,5 +1,7 @@
 This project is a bot for League of Legends (LoL), a competitive MOBA video game. The bot is designed for Yuumi (a LoL character) playing the support role. It is fully functioning in Season 10 of LoL.
 
+We decided to do this project with Yuumi because of a Reddit post (https://www.reddit.com/r/leagueoflegends/comments/ejllvq/hi_my_name_is_saskio_i_reached_platinum_playing/) that we saw about a player playing on two accounts at once, with one of those being Yuumi. After I dislocated my right elbow, the arm that I use my mouse with, I couldn't play LoL anymore. That was the perfect time to start working on this project so that I could still feel like I was "playing" the game.
+
 In LoL each champion has four abilites; Q, W, E, and R. I will go into detail as to what each of Yuumi's abilities does and how we (another student and me) managed to go about having the bot use the abilities properly.
 
 For percieving game information we tried using deep learning models for character recognition and progress bar reading, but found it easier and more efficient with using single pixel readings and comparing with recorded constants. We also use simple edge detection and corner finding to deduce positions in the League of Legends map, using the white box that highlights current FOV in the minimap. We often use little-known key-bindings to facilitate certain actions, such as (f1-f4) camera control for mounting different champions.
