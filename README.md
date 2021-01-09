@@ -1,4 +1,4 @@
-This project is a bot for League of Legends (LOL), a competitive MOBA video game. The bot is designed for Yuumi (a LOL character) playing the support role. It is fully functioning in Season 10 of LOL.
+This project is a bot for League of Legends (LoL), a competitive MOBA video game. The bot is designed for Yuumi (a LoL character) playing the support role. It is fully functioning in Season 10 of LoL.
 
 In LOL each champion has four abilites; Q, W, E, and R. I will go into detail as to what each of Yuumi's abilities does and how we (another student and me) managed to go about having the bot use the abilities properly.
 
