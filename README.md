@@ -1,4 +1,4 @@
-This project is a Yuumi bot that is fully functioning in season 10 of League of Legends.
+This project is a Yuumi bot that asdkjnsadkjnsakdjnsajkdnasjkndis fully functioning in season 10 of League of Legends.
 
 In League of Legends each champion has four abilites; Q, W, E, and R. I will go into detail as to what each of Yuumi's abilities does and how we (another student and me) managed to go about having the bot use the abilities properly.
 
